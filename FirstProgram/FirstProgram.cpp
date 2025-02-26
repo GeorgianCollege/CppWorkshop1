@@ -31,6 +31,12 @@ T GetValidInput(const std::string& prompt)
 }
 
 
+/**
+ *
+ * This little program is used to get the player's first name, score, and bonus factor.
+ *
+ * @return {int}
+ */
 int main()
 {
 	auto playerScore = 10;
